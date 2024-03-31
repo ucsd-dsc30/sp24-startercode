@@ -19,3 +19,5 @@ Every week, we will release a new skeleton for the PA, and if you followed the a
 git pull
 ```
 And this will keep your remote repository up-to-date with the most recent starter code will upload.
+
+Good luck!
