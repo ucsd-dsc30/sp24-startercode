@@ -7,12 +7,12 @@ To begin with, I will walk you through a quick tutorial on how to pull the start
 Assuming you have already finished setting up your IntelliJ IDE, you want to go to your terminal and do the following in your desktop's working directory:
 
 ```bash
-mkdir dsc_30
+mkdir dsc30
 cd ./dsc30
 git clone https://github.com/ucsd-dsc30/sp24-startercode
 ```
 
-What you are doing above is creating a new folder called dsc_30 (hence `mkdir dsc_30`), then moving into that directory (`cd = change directory`), and cloning whatever files can be found. 
+What you are doing above is creating a new folder called dsc_30 (hence `mkdir dsc30`), then moving into that directory (`cd = change directory`), and cloning whatever files can be found. 
 Every week, we will release a new skeleton for the PA, and if you followed the above steps properly, you will need not repeat the steps above. You need to pull whatever files we upload using the git command:
 
 ```bash
