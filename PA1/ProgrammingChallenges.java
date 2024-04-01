@@ -1,5 +1,3 @@
-package PA1;
-
 /*
  * Name: TODO First Last
  * PID:  TODO AXXXXXXXX
