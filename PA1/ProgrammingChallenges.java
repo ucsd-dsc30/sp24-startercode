@@ -80,9 +80,8 @@ public class ProgrammingChallenges {
      * Problem 8
      * TODO
      */
-    public static float averageGrade(int[][] grades, int index, boolean choice) {
-        // TODO
-        return 0f;
+    public static float[] assignmentAverages (int[][] grades) {
+        return 0.0f;
     }
 
     /**
