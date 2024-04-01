@@ -7,8 +7,8 @@ To begin with, I will walk you through a quick tutorial on how to pull the start
 Assuming you have already finished setting up your IntelliJ IDE, you want to go to your terminal and do the following in your desktop's working directory:
 
 ```bash
-mkdir dsc30
-cd ./dsc30
+mkdir dsc30_sp24
+cd ./dsc30_sp24
 git clone https://github.com/ucsd-dsc30/sp24-startercode
 ```
 
