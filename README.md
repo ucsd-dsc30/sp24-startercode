@@ -18,7 +18,8 @@ Every week, we will release a new skeleton for the PA (a starter code), and if y
 ```bash
 git pull
 ```
-And this will keep your remote repository up-to-date with the most recent starter code we will provide you with.
+And this will keep your remote repository up-to-date with the most recent starter code we will provide you with. 
+Now that you have the starter code, you can copy and paste all the files into your own git repository which you will submit on gradescope.
 
 Good luck!
 
