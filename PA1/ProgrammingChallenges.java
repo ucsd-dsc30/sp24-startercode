@@ -79,7 +79,7 @@ public class ProgrammingChallenges {
      * TODO
      */
     public static float[] assignmentAverages (int[][] grades) {
-        return 0f;
+        return null;
     }
 
     /**
