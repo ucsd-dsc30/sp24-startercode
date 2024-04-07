@@ -14,8 +14,8 @@ cd ./dsc30_sp24
 git clone https://github.com/ucsd-dsc30/sp24-startercode
 ```
 
-What you are doing above is creating a new folder called dsc30_sp24 (hence `mkdir dsc30`), then moving into that directory (`cd = change directory`), and cloning whatever files can be found inside the git repository. 
-Every week, we will release a new skeleton for the PA (a starter code), and if you followed the above steps properly, you need not repeat the steps above in the following weeks. You can get whatever files we upload using the git command:
+What you are doing above is creating a new folder called dsc30_sp24 (hence `mkdir dsc30_sp24`), then moving into that directory (`cd = change directory`), and cloning whatever files can be found inside the git repository. 
+Every week, we will release a new skeleton for the PA (a starter code), and if you followed the above steps properly, you need not repeat it again for the following weeks. You can get whatever files we upload using the git command:
 
 ```bash
 git pull
